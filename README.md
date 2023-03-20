@@ -10,16 +10,16 @@ The Cat API App is a mock project built with React.js using thecatapi. This appl
 
 To get started with the Cat API App, follow these simple steps:
 
-Install the project dependencies by running npm install.
+Install the project dependencies by running:
 ### `npm install`
 
-Build the app for production using npm run build.
+Build the app for production using:
 ### `npm run build`
 
-Run the app in development mode with npm start.
+Run the app in development mode with:
 ### `npm start`
 
-Open http://localhost:3000 to view the app in your browser.
+Open **http://localhost:3000** to view the app in your browser.
 
 
 
