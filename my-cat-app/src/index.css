@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    margin: 10;
+    background-color: #182d41;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 70px;
+}
+
+h3 {
+    
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
