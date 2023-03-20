@@ -1,4 +1,4 @@
-**Cat API App**
+**The Cat API App**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Cat API App is a mock project built with React.js using thecatapi. This application allows users to view and favorite different cat breeds along with their name, origin, lifespan, and temperament. Users can then view their favorite breeds and remove them from their favorite list. Additionally, users can view a full image of the selected breed along with all its details by clicking on the breed's image.
